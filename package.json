@@ -1,0 +1,19 @@
+{
+  "name": "netflix_inicio",
+  "version": "1.0.0",
+  "description": "Netflix Login",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bryan Silva",
+  "license": "ISC",
+  "dependencies": {
+    "@types/gulp": "^4.0.6",
+    "@types/gulp-autoprefixer": "0.0.32",
+    "@types/gulp-sass": "^4.0.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-sass": "^4.0.2"
+  }
+}
